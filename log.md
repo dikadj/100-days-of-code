@@ -31,8 +31,8 @@
 
 ### Day 1: Sunday, April 7th, 2019
 
-**Today's Progress**:
+**Today's Progress**: I worked on an old personal project of mine called "ecommerce-footwear", as you can guess what it is for from the project's name, it's an ecommerce site (a mock though). I plan on improving it by wrapping it's state using Redux and adding some accessibility features to it. There are still a few errors with some migrations as I updated the dependencies, I'll come back later.
 
-**Thoughts**:
+**Thoughts**: It's a bit tedious to maintain the app as in the past I ejected the app from "create-react-app" for enabling Sass features. As now it is now supported by create-react-app by default, I tried to convert it's ejected config to use the default create-react-app config for ease of maintenance
 
-**Link(s) to work**:
+**Link(s) to work**: [Ecommerce Site Repo](https://github.com/dikadj/ecommerce-footwear), [Ecommerce Site Deployed on Heroku](https://ecommerce-footwear.herokuapp.com)
