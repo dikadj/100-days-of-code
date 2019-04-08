@@ -43,8 +43,16 @@
 
 ### Day 2: Monday, April 8th, 2019
 
-**Today's Progress**: I continued working on ecommerce-footwear project. I successfully reapplied create-react-app default config (undo eject) as well as updating and migrating some dependencies. I also wrote some reducers to hold the current data for later use in Redux.
+**Today's Progress**:
+1. I continued working on ecommerce-footwear project. I successfully reapplied create-react-app default config (undo eject) as well as updating and migrating some dependencies. I also wrote some reducers to hold the current data for later use in Redux.
 
-**Thoughts**: Well, there are some unexpected errors and warning the first time I applied the changes. But, successfully fixed though there are a few warnings about empty <a> anchor tag's "href". Gonna fix them later.
+2. I built an analog clock using React, SVG, and jQuery. Nothing much from the looks, just for fun.
 
-**Link(s) to work**: [Ecommerce Site Repo](https://github.com/dikadj/ecommerce-footwear)
+**Thoughts**:
+1. ecommerce-footwear project: Well, there were some unexpected errors and warning the first time I applied the changes. But, successfully fixed though there are a few warnings about empty <a> anchor tag's "href". Gonna fix them later. And also, the popover feature's not working anymore. I've tried removing the duplicate jQuery, using .noConflict function, and also anything I found on the internet is also not working.
+
+2. analog-clock-js: I didn't have any problem in creating this one, I like it when things went smoothly and hope it'll affect the next ones also in good ways.
+
+**Link(s) to work**:
+1. [Ecommerce Site Repo](https://github.com/dikadj/ecommerce-footwear)
+2. [Simple Analog Clock](https://github.com/dikadj/analog-clock-js)
