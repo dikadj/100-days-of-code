@@ -56,3 +56,15 @@
 **Link(s) to work**:
 1. [Ecommerce Site Repo](https://github.com/dikadj/ecommerce-footwear)
 2. [Simple Analog Clock](https://github.com/dikadj/analog-clock-js)
+
+
+### Day 3: Tuesday, April 9th, 2019
+
+**Today's Progress**:
+1. Fixing viewport for analog clock I created previously to center the clock in viewport, I also put my code in Codepen to view the result easily.
+
+**Thoughts**:
+1. analog-clock-js: When putting my code in Codepen, I needed to modify the code slightly as Codepen didn't support import/export. I actually could use CDN from the Codepen's settings, but I prefer to declare my code explicitly, so that I'm aware of what I'm doing. So, I put them in the HTML file.
+
+**Link(s) to work**:
+1. [Simple Analog Clock Codepen](https://codepen.io/dikadj/full/xeRWEq), [Simple Analog Clock Repo](https://github.com/dikadj/analog-clock-js)
