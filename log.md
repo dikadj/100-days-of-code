@@ -60,11 +60,24 @@
 
 ### Day 3: Tuesday, April 9th, 2019
 
+**Today's Progress**: Fixing viewport for analog clock I created previously to center the clock in viewport, I also put my code in Codepen to view the result easily.
+
+**Thoughts**: analog-clock-js: When putting my code in Codepen, I needed to modify the code slightly as Codepen didn't support import/export. I actually could use CDN from the Codepen's settings, but I prefer to declare my code explicitly, so that I'm aware of what I'm doing. So, I put them in the HTML file.
+
+**Link(s) to work**: [Simple Analog Clock Codepen](https://codepen.io/dikadj/full/xeRWEq), [Simple Analog Clock Repo](https://github.com/dikadj/analog-clock-js)
+
+### Day 4: Wednesday, April 10th, 2019
+
 **Today's Progress**:
-1. Fixing viewport for analog clock I created previously to center the clock in viewport, I also put my code in Codepen to view the result easily.
+1. Improving syntax semantics for readability in my keyboard & mouse event detector app. Also relocating all inline styles in a separate file using Sass.
+
+2. Rebuilding "Jimi Hendrix Tribute" page as part of freecodecamp's challenge.
 
 **Thoughts**:
-1. analog-clock-js: When putting my code in Codepen, I needed to modify the code slightly as Codepen didn't support import/export. I actually could use CDN from the Codepen's settings, but I prefer to declare my code explicitly, so that I'm aware of what I'm doing. So, I put them in the HTML file.
+1. mouse-and-keyboard-event-detector: Some of the events didn't work in Codepen, gonna need to find the solution later.
+
+2. Tribute Page: because I built the page with only HTML and Bootstrap, the styling became a bit tricky as there were a lot of classes. I also needed to readjust the image for different breakpoints, it took a bit more time than I expected but it was worthwhile, so I won't complain.
 
 **Link(s) to work**:
-1. [Simple Analog Clock Codepen](https://codepen.io/dikadj/full/xeRWEq), [Simple Analog Clock Repo](https://github.com/dikadj/analog-clock-js)
+1. [Mouse & Keyboard Event Detector](https://codepen.io/dikadj/full/XQpQQq), [the repo](https://github.com/dikadj/mouse-and-keyboard-event-detector)
+2. [Tribute Page](https://codepen.io/dikadj/full/qpQRWO)
