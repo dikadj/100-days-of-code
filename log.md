@@ -81,3 +81,11 @@
 **Link(s) to work**:
 1. [Mouse & Keyboard Event Detector](https://codepen.io/dikadj/full/XQpQQq), [the repo](https://github.com/dikadj/mouse-and-keyboard-event-detector)
 2. [Tribute Page](https://codepen.io/dikadj/full/qpQRWO)
+
+### Day 5: Thursday, April 11th, 2019
+
+**Today's Progress**: Solving some challenge in Codewars. I leveled up by only solving 2 of 6th level kata.
+
+**Thoughts**: The problems were not that much of a hassle, it's just it took a bit time for me to think about a solution.
+
+**Link(s) to work**: [My Codewars Account](https://www.codewars.com/users/dikadj), [The Solutions I wrote](https://github.com/dikadj/codewars-challenge)
