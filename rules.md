@@ -4,7 +4,7 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-Sunday, April 7th, 2019. <!-- [PUT YOUR DATE HERE] -->
+Sunday, April 7th, 2019. (+1) <!-- [PUT YOUR DATE HERE] -->
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode

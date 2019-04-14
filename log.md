@@ -89,3 +89,21 @@
 **Thoughts**: The problems were not that much of a hassle, it's just it took a bit time for me to think about a solution.
 
 **Link(s) to work**: [My Codewars Account](https://www.codewars.com/users/dikadj), [The Solutions I wrote](https://github.com/dikadj/codewars-challenge)
+
+<!-- MISSED A DAY (so sad :") -->
+
+### Day 6: Saturday, April 13th, 2019
+
+**Today's Progress**: Working on forms and validations, finally built a simple login page.
+
+**Thoughts**: Didn't make it in time the day before as I learnt from an online course and got too into it :"
+
+**Link(s) to work**: [Simple Login Page](https://codepen.io/dikadj/full/LvLNga), [Repo](https://github.com/dikadj/login-react)
+
+### Day 7: Sunday, April 14th, 2019
+
+**Today's Progress**: Built a survey form with React and Bootstrap.
+
+**Link(s) to work**: This one was pretty quickly done and I kinda like the result, even though I'm gonna need to fix some validation logic later.
+
+**Link(s) to work**: [Survey Form](https://codepen.io/dikadj/full/OGxyZR), [Repo](https://github.com/dikadj/favorite-music-survey)
