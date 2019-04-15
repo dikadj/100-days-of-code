@@ -104,6 +104,14 @@
 
 **Today's Progress**: Built a survey form with React and Bootstrap.
 
-**Link(s) to work**: This one was pretty quickly done and I kinda like the result, even though I'm gonna need to fix some validation logic later.
+**Thoughts**: This one was pretty quickly done and I kinda like the result, even though I'm gonna need to fix some validation logic later.
 
 **Link(s) to work**: [Survey Form](https://codepen.io/dikadj/full/OGxyZR), [Repo](https://github.com/dikadj/favorite-music-survey)
+
+### Day 8: Monday, April 15th, 2019
+
+**Today's Progress**: In the middle of copying and redesigning Converse All Star official site.
+
+**Thoughts**: A bit stuck on creating responsive elements for navbar.
+
+**Link(s) to work**: Haven't put it online, currently don't have any significant progress to show on the internet.
