@@ -115,3 +115,43 @@
 **Thoughts**: A bit stuck on creating responsive elements for navbar.
 
 **Link(s) to work**: Haven't put it online, currently don't have any significant progress to show on the internet.
+
+### Day 9: Monday, April 16th, 2019
+
+**Today's Progress**: Created a template for navigation drawer for smaller break point.
+
+**Thoughts**: First time using Stackblitz, I like it, but the dev server is kinda slow.
+
+**Link(s) to work**: [Landing page copy](https://codepen.io/dikadj/full/QPmOKo), [Repo](https://github.com/dikadj/converse-landing-redesign)
+
+### Day 10: Monday, April 17th, 2019
+
+**Today's Progress**: Continue redesigning Converse All Star official site.
+
+**Thoughts**: Redesign is harder than I thought, actually harder than building a new one.
+
+**Link(s) to work**: [Landing page copy](https://converse-landing-redesign.stackblitz.io/), [Repo](https://github.com/dikadj/converse-landing-redesign)
+
+### Day 11: Monday, April 18th, 2019
+
+**Today's Progress**: Switching back to Codepen from Stackblitz as the dev server was a bit slow.
+
+**Thoughts**: Relocating the code to Codepen was a bit tedious.
+
+**Link(s) to work**: [Landing page copy](https://codepen.io/dikadj/full/QPmOKo), [Repo](https://github.com/dikadj/converse-landing-redesign)
+
+### Day 11: Monday, April 18th, 2019
+
+**Today's Progress**: Switching back to Codepen from Stackblitz as the dev server was a bit slow.
+
+**Thoughts**: Relocating the code to Codepen was a bit tedious.
+
+**Link(s) to work**: [Landing page copy](https://codepen.io/dikadj/full/QPmOKo), [Repo](https://github.com/dikadj/converse-landing-redesign)
+
+### Day 12-15: Monday, April 19th-22nd, 2019
+
+**Today's Progress**: Creating a couple more drawer for shopping cart and search bar in smaller breakpoint, fixing flexbox styling for images, validating email subscription, and finally finalizing the layout for upload.
+
+**Thoughts**: Images served not working, after switching around between some image serving sites, finally found Imgbb and use it right away.
+
+**Link(s) to work**: [Landing page copy](https://codepen.io/dikadj/full/QPmOKo), [Repo](https://github.com/dikadj/converse-landing-redesign)
